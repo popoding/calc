@@ -1,2 +1,2 @@
 # calc
-a simpl caculator in bash
+a simpl caculator on bash
